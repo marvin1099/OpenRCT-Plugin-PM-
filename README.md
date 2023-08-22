@@ -47,4 +47,4 @@ This is so that the plugins and the config file all get written to the plugin fo
     -o, --ols             list indexed online plugins
     -u, --update          force update plugins (default auto update every 24 hours)
     -x, --idxup           force update plugin index (default auto update every hour)
-    -l, --ls              list installed plugins
+    -l, --ls              list installed plugins 
