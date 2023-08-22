@@ -15,7 +15,7 @@ https://openrct2plugins.org/
 website mostly by web-scraping.  
 
 # Install
-First you need to download the dependency  
+First you need to download python and the python dependency  
 ```pip install beautifulsoup4 ```  
 Then get the script from  
 https://codeberg.org/marvin1099/OpenRCT-Plugin-PM/releases  
