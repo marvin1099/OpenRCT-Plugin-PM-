@@ -1,8 +1,8 @@
 # OpenRCT-Plugin-PM
+https://codeberg.org/marvin1099/OpenRCT-Plugin-PM#availability  
 https://codeberg.org/marvin1099/OpenRCT-Plugin-PM#description  
 https://codeberg.org/marvin1099/OpenRCT-Plugin-PM#install  
 https://codeberg.org/marvin1099/OpenRCT-Plugin-PM#usage  
-https://codeberg.org/marvin1099/OpenRCT-Plugin-PM#availability  
 
 # Availability
 Main Repo: https://codeberg.org/marvin1099/OpenRCT-Plugin-PM  
