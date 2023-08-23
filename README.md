@@ -1,17 +1,13 @@
-# OpenRCT-Plugin-PM Codeberg Index 
-https://codeberg.org/marvin1099/OpenRCT-Plugin-PM#availability  
+# OpenRCT-Plugin-PM Main
+https://codeberg.org/marvin1099/OpenRCT-Plugin-PM  
 https://codeberg.org/marvin1099/OpenRCT-Plugin-PM#description  
 https://codeberg.org/marvin1099/OpenRCT-Plugin-PM#install  
 https://codeberg.org/marvin1099/OpenRCT-Plugin-PM#usage  
-# OpenRCT-Plugin-PM Github Index 
-https://github.com/marvin1099/OpenRCT-Plugin-PM#availability  
+# OpenRCT-Plugin-PM Backup
+https://github.com/marvin1099/OpenRCT-Plugin-PM 
 https://github.com/marvin1099/OpenRCT-Plugin-PM#description  
 https://github.com/marvin1099/OpenRCT-Plugin-PM#install  
-https://github.com/marvin1099/OpenRCT-Plugin-PM#usage  
-
-# Availability
-Main Repo: https://codeberg.org/marvin1099/OpenRCT-Plugin-PM  
-Bakup Repo: https://github.com/marvin1099/OpenRCT-Plugin-PM  
+https://github.com/marvin1099/OpenRCT-Plugin-PM#usage   
 
 # Description
 A bady optimized portable OpenRCT plugin package manager written in python.  
