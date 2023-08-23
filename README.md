@@ -4,7 +4,7 @@ https://codeberg.org/marvin1099/OpenRCT-Plugin-PM#description
 https://codeberg.org/marvin1099/OpenRCT-Plugin-PM#install  
 https://codeberg.org/marvin1099/OpenRCT-Plugin-PM#usage  
 # OpenRCT-Plugin-PM Backup
-https://github.com/marvin1099/OpenRCT-Plugin-PM 
+https://github.com/marvin1099/OpenRCT-Plugin-PM  
 https://github.com/marvin1099/OpenRCT-Plugin-PM#description  
 https://github.com/marvin1099/OpenRCT-Plugin-PM#install  
 https://github.com/marvin1099/OpenRCT-Plugin-PM#usage   
