@@ -25,8 +25,8 @@ Then run ```orct-cmd-plugin-dl.py``` inside the "openrct plugin folder"
 It is important that you run the script with the "openrct plugin folder" as working directory.  
 This is so that the plugins and the config file all get written to the plugin folder.  
 You can do this by openning a terminal inside the "openrct plugin folder".  
-You can also type ```cd "openrct plugin folder path"``` and then run the file.  
-For windows the cd command might need a /d, so ```cd /d "openrct plugin folder path"```.  
+You can also open a terminal, type ```cd "openrct plugin folder path"``` and then run the file.  
+For windows open the cmd and the cd command might need a /d, so ```cd /d "openrct plugin folder path"```.  
 
 # Usage
     usage: orct-cmd-plugin-dl.py [-h] [-q QUERY] [-r REMOVE [REMOVE ...]] [-i INSTALL [INSTALL ...]] [-o] [-u] [-x] [-l]
