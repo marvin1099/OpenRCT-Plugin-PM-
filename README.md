@@ -1,13 +1,11 @@
-# OpenRCT-Plugin-PM Main
-https://codeberg.org/marvin1099/OpenRCT-Plugin-PM  
-https://codeberg.org/marvin1099/OpenRCT-Plugin-PM#description  
-https://codeberg.org/marvin1099/OpenRCT-Plugin-PM#install  
-https://codeberg.org/marvin1099/OpenRCT-Plugin-PM#usage  
-# OpenRCT-Plugin-PM Backup
-https://github.com/marvin1099/OpenRCT-Plugin-PM  
-https://github.com/marvin1099/OpenRCT-Plugin-PM#description  
-https://github.com/marvin1099/OpenRCT-Plugin-PM#install  
-https://github.com/marvin1099/OpenRCT-Plugin-PM#usage   
+# OpenRCT-Plugin-PM
+Main repo: https://codeberg.org/marvin1099/OpenRCT-Plugin-PM  
+Backup repo: https://github.com/marvin1099/OpenRCT-Plugin-PM  
+
+# Table of contents
+[Description](#description)  
+[Install](#install)  
+[Usage](#usage)  
 
 # Description
 A bady optimized portable OpenRCT plugin package manager written in python.  
@@ -19,9 +17,9 @@ website mostly by web-scraping.
 First you need to download python and the python dependency  
 ```pip install beautifulsoup4 ```  
 Then get the script from  
-https://codeberg.org/marvin1099/OpenRCT-Plugin-PM/releases  
+[Codeberg Releases](https://codeberg.org/marvin1099/OpenRCT-Plugin-PM/releases)  
 or get it from  
-https://github.com/marvin1099/OpenRCT-Plugin-PM/releases  
+[Github Releases](https://github.com/marvin1099/OpenRCT-Plugin-PM/releases)  
 Put the ```orct-cmd-plugin-dl.py``` in the openrct plugin folder  
 Then run ```orct-cmd-plugin-dl.py``` inside the "openrct plugin folder"  
 It is important that you run the script with the "openrct plugin folder" as working directory.  
