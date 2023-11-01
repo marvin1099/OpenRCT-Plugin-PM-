@@ -12,6 +12,7 @@ A bady optimized portable OpenRCT plugin package manager written in python.
 The script gets all the plugins from the   
 https://openrct2plugins.org/  
 website mostly by web-scraping.  
+Right now i working on a new version, so you can look forward to that.  
 
 # Install
 First you need to download python and the python dependency  
