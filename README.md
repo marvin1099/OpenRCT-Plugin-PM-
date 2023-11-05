@@ -15,8 +15,9 @@ website by web-scraping and then from the github api.
 The new version is out now and the config is now changed so it is compatible with v0.5 and above.
 
 # Install
-First you need to download python and the python dependency  
-```pip install beautifulsoup4 ```  
+First you need to download python and the python dependency   
+
+    pip install beautifulsoup4  
 Then get the script from  
 [Codeberg Releases](https://codeberg.org/marvin1099/OpenRCT-Plugin-PM/releases)  
 or get it from  
