@@ -997,7 +997,7 @@ if __name__ == "__main__":
     parser.add_argument('-n', '--number', type=int, help='search for stars, submitted and last_updated (use g or b in fields to specifie max or min)')
     parser.add_argument('-f', '--fields', nargs='+', default=['n'], choices=['n','d','a','s','g','b','m','l','i','x','t','r','p'],help='fields to search (n: name (default), d: description, a: author, s: stars, g: above, b: below, x: disable unixtime - number, m: submitted, l: license, i: url_identifier, t: tags, r: only query and number, p: enable partial tag search)')
     parser.add_argument('-s', '--sort', nargs='+',default=[None], choices=['n', 's', 'm', 'l', 'r'],help='field to sort the results (n: for name, s: stars, m: submitted, l: last_updated, r: reverse results)')
-    parser.add_argument('-r', '--remove', nargs="+", action='extend', help='remove installed plugin (supply empty str to remove all)')
+    parser.add_argument('-r', '--remove', nargs="+", action='extend', help='remove installed plugin')
     parser.add_argument('-i', '--install', nargs="+", action='extend', help='install online database plugin')
     parser.add_argument('-o', '--ols', action='store_true', help='list indexed online plugins')
     parser.add_argument('-u', '--update', action='store_true', help='force update plugins (default auto update every 24 hours)')
