@@ -53,7 +53,7 @@ For windows open the cmd and the cd command might need a /d, so ```cd /d "openrc
     field to sort the results (n: for name, s: stars, m: submitted, l: last_updated, r:
     reverse results)
     -r REMOVE [REMOVE ...], --remove REMOVE [REMOVE ...]
-    remove installed plugin (supply empty str to remove all)
+    remove installed plugin
     -i INSTALL [INSTALL ...], --install INSTALL [INSTALL ...]
     install online database plugin
     -o, --ols             list indexed online plugins
