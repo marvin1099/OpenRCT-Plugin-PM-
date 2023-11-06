@@ -12,7 +12,7 @@ A somewhat structured portable OpenRCT plugin package manager and downloader wri
 The script gets all the plugins from the   
 https://openrct2plugins.org/  
 website by web-scraping and then from the github api.  
-The new version is out now and the config is now changed so it is compatible with v0.5 and above.
+The new version is out now and the config is now changed so it is compatible with v0.5 and above.  
 Keep in mind i used AI to help me make this.
 
 # Install
